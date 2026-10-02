@@ -249,4 +249,6 @@ For questions or support, open an issue on GitHub or contact the maintainers.
 
 ---
 
-**Built with ❤️ using Next.js, Tailwind CSS, and Framer Motion**
+**Built by Girish Lade** — [ladestack.in](https://ladestack.in)
+
+Built with ❤️ using Next.js, Tailwind CSS, and Framer Motion
